@@ -1,0 +1,13 @@
+.result {
+padding-bottom: 20px;
+}
+.row {
+	margin-left: 0px;
+	justify-content: center;
+}
+#button-fetch {
+	margin-right: 5px;
+}
+#button-replace {
+	margin-left: 5px;
+}
